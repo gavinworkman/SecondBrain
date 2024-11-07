@@ -1,13 +1,13 @@
 # Home
 
-[[Class Notes]] 
+[[Class Notes]]
 
-[[Cyber Security Notes]] 
+[[Homework]]
 
-[[Homework]] 
+[[Cyber Security Notes]]
 
-[[College]] 
+[[College]]
 
-[[ToDo]] 
+[[ToDo]]
 
-[[Brynn]] 
+[[Brynn]]

@@ -4,6 +4,8 @@
 
 # Linux Fundamentals
 
+'''bash
+
 ## Basic Commands
 
 ```bash

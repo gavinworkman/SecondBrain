@@ -1,5 +1,5 @@
 # Class Notes
 
-[[Home]] 
+[[Home]]
 
-[[AP Gov]] 
+[[AP Gov]]

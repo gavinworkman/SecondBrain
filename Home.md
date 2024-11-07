@@ -2,9 +2,9 @@
 
 [[Class Notes]]
 
-[[Homework]]
-
 [[Cyber Security Notes]]
+
+[[Homework]]
 
 [[College]]
 

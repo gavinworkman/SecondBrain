@@ -4,12 +4,6 @@
 
 # Linux Fundamentals
 
-'''bash
-
-ednj
-
-'''
-
 ## Basic Commands
 
 ```bash

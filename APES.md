@@ -2,17 +2,17 @@
 
 ## Chapter 1
 
-- [[1.1-introduction-to-ecosystems]] 
-- [[1.2-terrestrial-biomes]] 
-- [[1.3-aquatic-biomes]] 
-- [[1.4-the-carbon-cycle]] 
-- [[1.5-the-nitrogen-cycle]] 
-- [[1.6-the-phosphorus-cycle]] 
-- [[1.7-the-hydrological-water-cycle]] 
-- [[1.8-primary-productivity]] 
-- [[1.9-trophic-levels]] 
-- [[1.10-energy-flow-and-the-10-rule]] 
-- [[1.11-food-chains-and-food-webs]] 
+- [[1.1-introduction-to-ecosystems]]
+- [[1.2-terrestrial-biomes]]
+- [[1.3-aquatic-biomes]]
+- [[1.4-the-carbon-cycle]]
+- [[1.5-the-nitrogen-cycle]]
+- [[1.6-the-phosphorus-cycle]]
+- [[1.7-the-hydrological-water-cycle]]
+- [[1.8-primary-productivity]]
+- [[1.9-trophic-levels]]
+- [[1.10-energy-flow-and-the-10-rule]]
+- [[1.11-food-chains-and-food-webs]]
 
 ## Chapter 2
 
@@ -26,7 +26,7 @@
 
 ## Chapter 3
 
-- [[3.1-generalist-and-specialist-species]] 
+- [[3.1-generalist-and-specialist-species]]
 - [[3.2-k-selected-and-r-selected-species]]
 - [3\.3 Survivorship Curves](chapter-3/3.3-survivorship-curves.md)
 - [3\.4 Carrying Capacity](chapter-3/3.4-carrying-capacity.md)

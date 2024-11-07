@@ -1,6 +1,6 @@
 # Cybersecurity
 
-[[Home]] 
+[[Home]]
 
 # Linux Fundamentals
 

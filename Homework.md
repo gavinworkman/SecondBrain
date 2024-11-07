@@ -2,4 +2,4 @@
 
 [[Home]]
 
-- [ ] mason jar AP Bio
+- [x] mason jar AP Bio

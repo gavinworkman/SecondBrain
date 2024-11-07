@@ -2,4 +2,4 @@
 
 [[Home]]
 
-- [ ] JMU Application /
+- [ ] JMU Application **Nov 8, 2024** 

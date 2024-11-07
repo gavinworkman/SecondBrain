@@ -1,5 +1,5 @@
 # Brynn
 
-[[Home]] 
+[[Home]]
 
 ## 

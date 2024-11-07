@@ -2,7 +2,7 @@
 
 [[Class Notes]]
 
-[[Cyber Security Notes]]
+\[\[
 
 [[Homework]]
 

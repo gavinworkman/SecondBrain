@@ -1,3 +1,9 @@
 # Compare and Contrast Essay
 
-\[\[Rese
+[[Research]] 
+
+[[Draft 1]] 
+
+[[Revisions]] 
+
+[[Final Draft]] 

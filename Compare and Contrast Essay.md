@@ -1,9 +1,11 @@
 # Compare and Contrast Essay
 
-[[Research]] 
+[[College Composition]] 
 
-[[Draft 1]] 
+[[Research]]
 
-[[Revisions]] 
+[[Draft 1]]
 
-[[Final Draft]] 
+[[Revisions]]
+
+[[Final Draft]]

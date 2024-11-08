@@ -4,4 +4,15 @@
 
 - [x] JMU Application **Nov 8, 2024**
 - [ ] AP Exam Registration (total registration)
-- [ ] Add safe web brow
+- [ ] Senior Project Website
+  - [ ] Add Safe Web Browsing info section
+
+  - [ ] Overall update 
+
+  - [ ] Fix pre- and post-test stuff
+
+  - [ ] Leaderboard
+
+  - [ ] QR Code for site
+
+  - [ ] 

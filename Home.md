@@ -1,8 +1,8 @@
-# Home
+# Home 
 
 [[Class Notes]]
 
-[[Cyber Security]] 
+[[Cyber Security]]
 
 [[Homework]]
 

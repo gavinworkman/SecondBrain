@@ -7,7 +7,7 @@
 - [ ] Senior Project Website
   - [ ] Add Safe Web Browsing info section
 
-  - [ ] Overall update 
+  - [ ] Overall update
 
   - [ ] Fix pre- and post-test stuff
 
@@ -15,4 +15,5 @@
 
   - [ ] QR Code for site
 
-  - [ ] 
+  - [ ] Put around school?
+- [ ] Sadie Bday Present **Dec 9, 2024**

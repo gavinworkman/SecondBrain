@@ -21,3 +21,5 @@ Your  annotation should  include the following information:
 7. Information about the author’s background
 
 8. Your personal conclusions about the source
+
+[[Annotated Bibliography Example]] 

@@ -16,4 +16,6 @@
   - [ ] QR Code for site
 
   - [ ] Put around school?
+
+  - [ ] Fix Hours Log
 - [ ] Sadie Bday Present **Dec 9, 2024**

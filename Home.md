@@ -1,4 +1,4 @@
-# Home 
+# Home
 
 [[Class Notes]]
 

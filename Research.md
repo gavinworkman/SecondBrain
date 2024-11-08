@@ -6,18 +6,18 @@ An annotated bibliography entry consists of two components: the Citation and the
 
 Your  annotation should  include the following information:
 
-A brief summary of the source
+1. A brief summary of the source
 
-The source’s strengths and weaknesses
+2. The source’s strengths and weaknesses
 
-Its conclusions
+3. Its conclusions
 
-Why the source is relevant in your field of study
+4. Why the source is relevant in your field of study
 
-Its relationships to other studies in the field (if applicable)
+5. Its relationships to other studies in the field (if applicable)
 
-An evaluation of the research methodology (if applicable)
+6. An evaluation of the research methodology (if applicable)
 
-Information about the author’s background
+7. Information about the author’s background
 
-Your personal conclusions about the source
+8. Your personal conclusions about the source

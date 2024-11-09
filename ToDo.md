@@ -9,7 +9,7 @@
 
   - [x] Overall update
 
-  - [ ] Fix pre- and post-test stuff
+  - [x] Fix pre- and post-test stuff
 
   - [ ] Leaderboard
 

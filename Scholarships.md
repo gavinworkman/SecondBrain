@@ -1,3 +1,3 @@
 # Scholarships
 
-## Ben Brock 
+## Ben Brock Memorial

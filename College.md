@@ -2,4 +2,4 @@
 
 [[Home]]
 
-\[\[Scholar
+[[Scholarships]] 

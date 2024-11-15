@@ -35,3 +35,5 @@ NUMBER. Steffen K, Andersen TE, Bahr R. Risk of injury on artificial turf and na
 This study followed a U17 league comprised of around 2000 players on 109 teams. This study was observational, assigning physical therapists to 7-8 teams each, and using their data to evaluate the injuries. They classified injuries as either acute (traumatic) or overuse, as well as where the injury occurred on the body and the surface it occurred on. I used this study due to the large amount of data gathered, leading to more generalized and accurate results. It encompassed 142,721 exposure hours (hours spent practicing or playing soccer) and had very in-depth analysis.
 
 NUMBER. Hagel BE. Injury Risk in Men’s Canada West University Football. American Journal of Epidemiology. 2003 \[accessed 2022 Jan 18\];157(9):825–833. doi:<https://doi.org/10.1093/aje/kwg050>
+
+This study was used as it looked into a sport other than soccer, one which the hardness and additional fr

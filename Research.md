@@ -27,3 +27,5 @@ Your annotation should  include the following information:
 ## Annotated Bibliography
 
 Bianco, Antonino, et al. “A Prospective Analysis of the Injury Incidence of Young Male Professional Football Players on Artificial Turf.” _Asian Journal of Sports Medicine_, vol. 7, no. 1, Mar. 2016, <https://doi.org/10.5812/asjsm.28425.>
+
+This is a study that compared 

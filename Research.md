@@ -26,11 +26,11 @@ Your annotation should  include the following information:
 
 ## Annotated Bibliography
 
-1\. Morrey BF. Risk of injury in elite football played on artificial turf versus natural grass: a prospective two-cohort study. Yearbook of Orthopedics. 2008;2008:142–143. doi:<https://doi.org/10.1016/s0276-1092>(08)79321-0
+NUMBER. Morrey BF. Risk of injury in elite football played on artificial turf versus natural grass: a prospective two-cohort study. Yearbook of Orthopedics. 2008;2008:142–143. doi:<https://doi.org/10.1016/s0276-1092>(08)79321-0
 
 This study followed two cohorts of pro soccer players through their spring-fall soccer season, the control group playing on a normal grass field and the experimental group on various types of turf. This is important to my research because it gives a perspective on my topic that surprised me. It categorized the injuries observed for further analysis and comparison, into groups like "traumatic" or "overuse", as well as severity, ranking them as slight, minor, moderate, or severe. Additionally, rather than comparing raw number of injuries, the study compares using the injury rate per 1000 exposure hours in order to control for bias. Many more hours were played on turf than grass, leading to overall more injuries, which is the logical conclusion that the study smartly avoided. This allowed for a more meaningful comparison.
 
-NUMVE. Steffen K, Andersen TE, Bahr R. Risk of injury on artificial turf and natural grass in young female football players. British Journal of Sports Medicine. 2007;41(Supplement 1):i33–i37. <https://bjsm.bmj.com/content/41/suppl_1/i33.> doi:<https://doi.org/10.1136/bjsm.2007.036665>
+NUMBER. Steffen K, Andersen TE, Bahr R. Risk of injury on artificial turf and natural grass in young female football players. British Journal of Sports Medicine. 2007;41(Supplement 1):i33–i37. <https://bjsm.bmj.com/content/41/suppl_1/i33.> doi:<https://doi.org/10.1136/bjsm.2007.036665>
 
 This study followed a U17 league comprised of around 2000 players on 109 teams. This study was observational, assigning physical therapists to 7-8 teams each, and using their data to evaluate the injuries. They classified injuries as either acute (traumatic) or overuse, as well as where the injury occurred on the body and the surface it occurred on. I used this study due to the large amount of data gathered, leading to more generalized and accurate results. It encompassed 142,721 exposure hours (hours spent practicing or playing soccer) and had very in-depth analysis.
 

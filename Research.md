@@ -32,4 +32,4 @@ This study followed two cohorts of pro soccer players through their spring-fall 
 
 2\. Steffen K, Andersen TE, Bahr R. Risk of injury on artificial turf and natural grass in young female football players. British Journal of Sports Medicine. 2007;41(Supplement 1):i33–i37. <https://bjsm.bmj.com/content/41/suppl_1/i33.> doi:<https://doi.org/10.1136/bjsm.2007.036665>
 
-This study followed a U17 league comprised of around 2000 players. This study was 
+This study followed a U17 league comprised of around 2000 players on . This study was observational, assigning physical therapists to 

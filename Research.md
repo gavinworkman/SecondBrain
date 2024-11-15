@@ -28,4 +28,4 @@ Your annotation should  include the following information:
 
 1\. Morrey BF. Risk of injury in elite football played on artificial turf versus natural grass: a prospective two-cohort study. Yearbook of Orthopedics. 2008;2008:142–143. doi:<https://doi.org/10.1016/s0276-1092>(08)79321-0
 
-This study followed two cohorts of pro soccer players through their spring-fall soccer season, the control group playing on a normal grass field and the experimental group on various types of turf. This is important to my research because it gives a perspective on my topic that surprised me. 
+This study followed two cohorts of pro soccer players through their spring-fall soccer season, the control group playing on a normal grass field and the experimental group on various types of turf. This is important to my research because it gives a perspective on my topic that surprised me.

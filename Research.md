@@ -28,4 +28,4 @@ Your annotation should  include the following information:
 
 Bianco, Antonino, et al. “A Prospective Analysis of the Injury Incidence of Young Male Professional Football Players on Artificial Turf.” _Asian Journal of Sports Medicine_, vol. 7, no. 1, Mar. 2016, <https://doi.org/10.5812/asjsm.28425.>
 
-This is an informative study that followed the injuries of two different groups of soccer players throughout a season where they played on a turf field. 
+This is an informative study that followed the injuries of two different groups of soccer players throughout a season where they played on a turf field. This study was important to my research as it compared its results to a similar study done but on a natural field,

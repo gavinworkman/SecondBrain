@@ -36,4 +36,4 @@ This study followed a U17 league comprised of around 2000 players on 109 teams. 
 
 NUMBER. Hagel BE. Injury Risk in Men’s Canada West University Football. American Journal of Epidemiology. 2003 \[accessed 2022 Jan 18\];157(9):825–833. doi:<https://doi.org/10.1093/aje/kwg050>
 
-This study was used as it looked into a sport other than soccer, one which the hardness and additional friction due to turf has a different impact. It follows five years of the men's varsity football team at Canada West University.
+This study was used as it looked into a sport other than soccer, one which the hardness and additional friction due to turf has a different impact. It follows five years of the men's varsity football team at Canada West University. Rather than only having lower-body injuries, this study tracked injuries across the body, categorizi

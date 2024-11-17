@@ -1,6 +1,6 @@
 # Draft 1
 
-[[Compare and Contrast Essay]] 
+[[Compare and Contrast Essay]]
 
 INTRO
 

@@ -20,6 +20,6 @@
 
 4. (Optional) A fourth quality/element of both A and B 
 
-   1. 
+   1.  
 
 Conclusion: Sums up the major issue or makes a recommendation based on the information provided

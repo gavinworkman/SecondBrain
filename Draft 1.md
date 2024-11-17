@@ -6,6 +6,8 @@
 
 - **Hook:** Start with a striking statistic or anecdote about injuries in sports related to playing surfaces.
 
+_During my junior year  high school, I suffered a l_
+
 - **Background:** Briefly introduce the importance of playing surfaces in sports, emphasizing turf vs. grass.
 
 - **Thesis Statement:** Highlight the focus on comparing injury risks and overall player experiences between turf and grass fields, supported by academic research.

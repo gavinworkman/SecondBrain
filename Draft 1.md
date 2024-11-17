@@ -6,7 +6,7 @@
 
 - **Hook:** Start with a striking statistic or anecdote about injuries in sports related to playing surfaces.
 
-_During my junior year high school, I suffered an injury to important cartilage in my knee while playing lacrosse, tearing my meniscus. This trauma took me out of play for the rest of the season and entailed a painful surgery, over a month of crutches, and physical therapy that I am still in. What perplexed me the most is the fact that my injury didn't come due to a hard check to my knee or a huge hit. It was a non-contact injury, one which occurred doing an activity one performs numerous times throughout their athletic career with no problems._
+_During my junior year high school, I suffered an injury to important cartilage in my knee while playing lacrosse, tearing my meniscus. This trauma took me out of play for the rest of the season and entailed a painful surgery, over a month of crutches, and physical therapy that I am still in. What perplexed me the most is the fact that my injury didn't come due to a hard check to my knee or a huge hit. It was a non-contact injury, one which occurred doing an activity one performs numerous times throughout their athletic career with no problems. I simply jumped in the air and landed I was angry and confused as to how such a major_ 
 
 - **Background:** Briefly introduce the importance of playing surfaces in sports, emphasizing turf vs. grass.
 

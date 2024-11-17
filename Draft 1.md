@@ -10,7 +10,7 @@ _During my junior year high school, I suffered an injury to important cartilage 
 
 - **Background:** Briefly introduce the importance of playing surfaces in sports, emphasizing turf vs. grass.
 
-_I learned that many athletes_ 
+_I learned that many athletes have anecdotal stories of their gripes with turf playing fields, often citing their injuries as being caused by the new surface. This insp_
 
 - **Thesis Statement:** Highlight the focus on comparing injury risks and overall player experiences between turf and grass fields, supported by academic research.
 

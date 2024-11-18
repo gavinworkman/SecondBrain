@@ -24,7 +24,7 @@ _jbj_
 
 - Define "injury incidence" in terms of exposure hours.
 
-_To analyze how often injuries occur, many studies track "injury incidence". This is defined as how many injuries occur in the set of players per 1000 hours_ 
+_To analyze how often injuries occur, many studies track "injury incidence". This is defined as how many injuries occur in the set of players per 1000 hours playing. For example, if a team practices for_ 
 
 - Introduce key studies (e.g., Fuller et al., Hagel, Morrey).
 

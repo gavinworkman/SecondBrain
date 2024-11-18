@@ -28,6 +28,8 @@ _To analyze how often injuries occur, many studies track "injury incidence". Thi
 
 - Introduce key studies (e.g., Fuller et al., Hagel, Morrey).
 
+_Many studies track injuries this way, including ones by Fuller et al., Hagel, and Morrey. This method a_
+
 #### B. **Soccer-Specific Injuries**
 
 - Findings from Fuller et al. (match and training injuries).

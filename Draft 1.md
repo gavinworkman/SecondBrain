@@ -34,6 +34,8 @@ _Many studies track injuries this way, including ones by Fuller et al., Hagel, a
 
 - Findings from Fuller et al. (match and training injuries).
 
+_Soccer fields were among the first to fully utilize turf, and with soccer being the most popular sport in the world, many studies have ana_
+
 - Discuss distinctions between injury rates for acute versus overuse injuries.
 
 - Highlight Steffen et al.’s large-scale analysis of young female football players.

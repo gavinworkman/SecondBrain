@@ -24,7 +24,7 @@ _jbj_
 
 - Define "injury incidence" in terms of exposure hours.
 
-_To analyze how often injuries occur, many studies track "injury incidence". This is defined as how many injuries occur in the set of players per 1000 hours playing. For example, if a team of 20 practices for 2 hours a day, each day would amount to 40 exposure hours._ 
+_To analyze how often injuries occur, many studies track "injury incidence". This is defined as how many injuries occur in the set of players per 1000 hours playing. For example, if a team of 20 practices for 2 hours a day, each day would amount to 40 exposure hours._
 
 - Introduce key studies (e.g., Fuller et al., Hagel, Morrey).
 
@@ -34,7 +34,7 @@ _Many studies track injuries this way, including ones by Fuller et al., Hagel, a
 
 - Findings from Fuller et al. (match and training injuries).
 
-_Soccer fields were among the first to fully utilize turf, and with soccer being the most popular sport in the world, many studies have analyzed the difference between turf and grass while playing and training for soccer. Despite anecdotal evidence I had previously believed, this study found a slight increase in injury incidence, but it was so small it was almost insignificant. Across both match and training injuries, only about 2 more injuries per 1000 exposure hours occured on turf versus grass playing surfaces._ 
+_Soccer fields were among the first to fully utilize turf, and with soccer being the most popular sport in the world, many studies have analyzed the difference between turf and grass while playing and training for soccer. Despite anecdotal evidence I had previously believed, this study found a slight increase in injury incidence, but it was so small it was almost insignificant. Across both match and training injuries, only about 2 more injuries per 1000 exposure hours occured on turf versus grass playing surfaces._
 
 - Discuss distinctions between injury rates for acute versus overuse injuries.
 

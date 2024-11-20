@@ -11,5 +11,3 @@
 [[4.2 - Soil Formation]]
 
 [[4.3 - Soil Composition and Properties]]
-
-[[4.7 - Solar Radiation and Earth's Seasons]] 

@@ -38,6 +38,8 @@ _Soccer fields were among the first to fully utilize turf, and with soccer being
 
 - Discuss distinctions between injury rates for acute versus overuse injuries.
 
+_Additionally, I have heard a large amount of anecdotal evidence that turf leads to more acute injuries than grass._ 
+
 - Highlight Steffen et al.’s large-scale analysis of young female football players.
 
 #### C. **Injury Data from Other Sports**

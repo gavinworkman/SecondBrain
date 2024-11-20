@@ -14,4 +14,4 @@
 
 [[4.7 - Solar Radiation and Seasons]]
 
-\[\[4.9 - El Nino and 
+[[4.9 - El Nino and La Nina]] 

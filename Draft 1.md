@@ -42,7 +42,7 @@ _Additionally, I have heard a large amount of anecdotal evidence that turf leads
 
 - Highlight Steffen et al.’s large-scale analysis of young female football players.
 
-_One specific study that proved to be very helpful in comparing the field types through the lens of soccer was Steffen et al.'s large-scale analysis of young female football players in Europe. This was the largest study I found, encompassing over 2,000 players. This study proved even greater consistency of findign_
+_One specific study that proved to be very helpful in comparing the field types through the lens of soccer was Steffen et al.'s large-scale analysis of young female football players in Europe. This was the largest study I found, encompassing over 2,000 players. This study proved even greater consistency of findings as each of the other soccer related studies, concluding that artificial turf is not associated with a higher risk of injury compared to natural grass._ 
 
 #### C. **Injury Data from Other Sports**
 

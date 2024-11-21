@@ -42,6 +42,8 @@ _Additionally, I have heard a large amount of anecdotal evidence that turf leads
 
 - Highlight Steffen et al.’s large-scale analysis of young female football players.
 
+_One specific study that proved to be very helpful in comparing the field types through the lens of soccer was Steffen et al.'s large-scale analysis of young female football players in Europe._ 
+
 #### C. **Injury Data from Other Sports**
 
 - Insights from Hagel’s study on Canadian football.

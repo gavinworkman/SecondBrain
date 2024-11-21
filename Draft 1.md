@@ -52,7 +52,7 @@ _Other sports were also required to study, as common movement techniques vary ac
 
 - Compare types and severity of injuries across different field types.
 
-_Interestingly, this study had different conclusions than its soccer-related counterparts, showing a slightly higher incidence of lower-extremity injuries, particularly knee sprains and abrasions._ 
+_Interestingly, this study had different conclusions than its soccer-related counterparts, showing a slightly higher incidence of lower-extremity injuries, particularly knee sprains and abrasions. Additionally_
 
 #### D. **Key Trends and Differences**
 

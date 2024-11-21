@@ -48,7 +48,7 @@ _One specific study that proved to be very helpful in comparing the field types 
 
 - Insights from Hagel’s study on Canadian football.
 
-_Other sports were also required to study, as common movement techniques vary across sports. In football and soccer, there is a lot more unidirectional movement, whether it's running upfield for a lead pass or running a streak_ 
+_Other sports were also required to study, as common movement techniques vary across sports. In football and soccer, there is a lot more unidirectional movement, whether it's running upfield for a lead pass or running a streak toward the end zone as a wide reciever. There's still a mix of both, with football having more juke moves and side-to-side movement than soccer, but each has players commonly running vertically up and down the field most.  In sports like lacross_
 
 - Compare types and severity of injuries across different field types.
 

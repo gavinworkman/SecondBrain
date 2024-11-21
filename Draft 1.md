@@ -38,7 +38,7 @@ _Soccer fields were among the first to fully utilize turf, and with soccer being
 
 - Discuss distinctions between injury rates for acute versus overuse injuries.
 
-_Additionally, I have heard a large amount of anecdotal evidence that turf leads to more acute, or sudden, traumatic injuries, than grass. Examples include sprained ankles (most common), fractured bones, dislocated joints, and torn ligaments. The distinction between injuries is important, because it allows us to more deeply analyze the true cause of injury. In every soccer-related study, across the board, there was a much greater number of acute injuries than overuse. Overuse injuries, while less common, did still occur. Examples of over_
+_Additionally, I have heard a large amount of anecdotal evidence that turf leads to more acute, or sudden, traumatic injuries, than grass. Examples include sprained ankles (most common), fractured bones, dislocated joints, and torn ligaments. The distinction between injuries is important, because it allows us to more deeply analyze the true cause of injury. In every soccer-related study, across the board, there was a much greater number of acute injuries than overuse. Overuse injuries, while less common, did still occur. Examples of overuse injuries include stress fractures, tendinitis, shin splints, and rotator cuff injuries._
 
 - Highlight Steffen et al.’s large-scale analysis of young female football players.
 

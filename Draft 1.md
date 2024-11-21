@@ -54,46 +54,6 @@ _Other sports were also required to study, as common movement techniques vary ac
 
 _Interestingly, this study had different conclusions than its soccer-related counterparts, showing a slightly higher incidence of lower-extremity injuries, particularly knee sprains and abrasions. The increase mechanical stress (pressure put on joints due to surface hardness) and increased friction may have contributed to the increase in these types of injuries (like mine). However, comparable rates of head and upper extremity injuries occurred, most likely due to the playing surface's negligible impact on these parts of the body. Overall, this study associated artificial turf with more non-contact injuries in football due to higher surface stiffness. While not drastic, a difference still existed._
 
----
-
-### **III. Player Experience**
-
-#### A. **Surface Characteristics**
-
-- Friction and hardness of turf fields vs. grass fields.
-
-- Weather impact on playability and safety, as noted in Hagel’s study.
-
-#### B. **Perception and Comfort**
-
-- Discuss player feedback (if available in sources).
-
-- Potential psychological effects of playing on turf vs. grass.
-
-#### C. **Game Play Differences**
-
-- Speed and ball behavior on turf compared to grass.
-
-- Adaptations players need to make when transitioning between surfaces.
-
----
-
-### **IV. Discussion**
-
-#### A. **Strengths and Limitations of Research**
-
-- Emphasize the controlled approach of studies like Morrey’s cohort analysis.
-
-- Limitations in generalizability due to focus on specific sports or demographics.
-
-#### B. **Practical Implications**
-
-- How findings can inform sports organizations and field maintenance decisions.
-
-- Balancing cost, accessibility, and player safety.
-
----
-
 ### **V. Conclusion**
 
 - **Restate Thesis:** Reaffirm that while both surfaces have pros and cons, research indicates nuanced differences in injury risks and overall experience.

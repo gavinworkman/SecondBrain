@@ -52,7 +52,7 @@ _Other sports were also required to study, as common movement techniques vary ac
 
 - Compare types and severity of injuries across different field types.
 
-_Interestingly, this study had different conclusions than its soccer-related counterparts, showing a slightly higher incidence of lower-extremity injuries, particularly knee sprains and abrasions. The increase mechanical stress (pressure put on joints due to surface hardness) and increased friction may have contributed to the increase in these types of injuries (like mine). However, comparable rates of head and upper extremity injuries occurred, most likely due to the playing surface's negligible impact on these parts of the body._
+_Interestingly, this study had different conclusions than its soccer-related counterparts, showing a slightly higher incidence of lower-extremity injuries, particularly knee sprains and abrasions. The increase mechanical stress (pressure put on joints due to surface hardness) and increased friction may have contributed to the increase in these types of injuries (like mine). However, comparable rates of head and upper extremity injuries occurred, most likely due to the playing surface's negligible impact on these parts of the body. Overally, this study associated_ 
 
 #### D. **Key Trends and Differences**
 

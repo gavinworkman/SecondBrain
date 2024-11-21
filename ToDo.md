@@ -19,3 +19,5 @@
 
   - [ ] Fix Hours Log
 - [ ] Sadie Bday Present **Dec 9, 2024**
+- [ ] Study for APES Quiz
+- \[ \]

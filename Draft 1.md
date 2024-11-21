@@ -52,6 +52,8 @@ _Other sports were also required to study, as common movement techniques vary ac
 
 - Compare types and severity of injuries across different field types.
 
+_Interestingly, this study had different conclusions than its soccer-related counterparts, showing a slightly higher incidence of lower-extremity injuries, particularly knee sprains and abrasions._ 
+
 #### D. **Key Trends and Differences**
 
 - Increased injury rates on turf (e.g., 2 more injuries per 1,000 exposure hours on turf).

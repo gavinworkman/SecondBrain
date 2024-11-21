@@ -48,7 +48,7 @@ _One specific study that proved to be very helpful in comparing the field types 
 
 - Insights from Hagel’s study on Canadian football.
 
-_Other sports were also required to study, as common movement techniques vary across sports. In football and soccer, there is a lot more unilateral_
+_Other sports were also required to study, as common movement techniques vary across sports. In football and soccer, there is a lot more unidirectional movement, whether it's running upfield for a lead pass or running a streak_ 
 
 - Compare types and severity of injuries across different field types.
 

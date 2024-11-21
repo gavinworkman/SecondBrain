@@ -5,4 +5,4 @@
 - [x] mason jar AP Bio
 - [x] Soil Sample Nov 7, 2024
 - [x] Annotated Bibliography - College Comp
-- [ ] Outline - Compare and Contrast Essay (Turf vs. Grass)
+- [x] Outline - Compare and Contrast Essay (Turf vs. Grass)

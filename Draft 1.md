@@ -48,6 +48,8 @@ _One specific study that proved to be very helpful in comparing the field types 
 
 - Insights from Hagel’s study on Canadian football.
 
+_Other sports were also required to study, as common movement techniques vary across sports. In football a_
+
 - Compare types and severity of injuries across different field types.
 
 #### D. **Key Trends and Differences**

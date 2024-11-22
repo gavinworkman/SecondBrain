@@ -18,6 +18,9 @@
   - [ ] Put around school?
 
   - [ ] Fix Hours Log
+
+  - [ ] Product Page
+
+  - [ ] Paper -
 - [ ] Sadie Bday Present **Dec 9, 2024**
-- [ ] Study for APES Quiz
-- \[ \]
+- [x] Study for APES Quiz

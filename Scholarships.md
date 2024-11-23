@@ -4,4 +4,4 @@
 
 ## Virginia Tech Honors Scholarship
 
-- Due Jan 10, 2025 
+- Due Jan 10, 2025

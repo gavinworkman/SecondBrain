@@ -2,8 +2,6 @@
 
 [[Home]]
 
-- [x] JMU Application **Nov 8, 2024**
-- [x] AP Exam Registration (total registration)
 - [ ] Senior Project Website
   - [x] Add Safe Web Browsing info section
 
@@ -19,8 +17,8 @@
 
   - [ ] Fix Hours Log
 
-  - [ ] Product Page
+  - [x] Product Page
 
   - [ ] Paper - [Resource](https://docs.google.com/presentation/d/1F1x5F5kOXvmrXIAkCLxiQ9MHtmZnqidfzULYogajTQM/present?slide=id.g621f58f77c_0_0)
 - [ ] Sadie Bday Present **Dec 9, 2024**
-- [x] Study for APES Quiz
+- [ ] Formal Paper - **Nov 28, 2024** 

@@ -22,4 +22,6 @@
 
 [[5.1 - Tragedy of the Commons]]
 
-[[5.2 - Deforestation and Clearcutting]] 
+[[5.2 - Deforestation and Clearcutting]]
+
+\[\[5.3 - 

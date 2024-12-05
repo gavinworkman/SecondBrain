@@ -30,4 +30,8 @@
 
   - [ ] Product
 
+    - [ ] Due **Jan Small Group**
+
   - [ ] Outcome
+
+    - [ ] Due **Jan Small Group**

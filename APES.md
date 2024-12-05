@@ -28,4 +28,6 @@
 
 [[5.4 - Agricultural Practices and their Impact]]
 
-[[5.5 - Irrigation]] 
+[[5.5 - Irrigation]]
+
+[[5.6 - Pest Control Methods & Integrated Pest ]] 
